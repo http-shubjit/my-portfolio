@@ -12,15 +12,15 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "Hanzla Tauqeer",
-  title: "Hi all, I'm Hanzla",
+  name: "SHubhajit    Biswal",
+  title: "Hi all, I'm Shubhajit",
   description:
-    "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with Python, Django, React.js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
-  resumeLink: "#",
+    "I'm a dedicated Full Stack web developer with experience in building web applications using MongoDB, Express.js, React.js, Node.js, and Next.js. I enjoy learning new technologies and applying them to my projects. I'm enthusiastic, self-motivated, creative, and action-oriented, always eager to learn and collaborate with others.",
+  resumeLink: "https://www.linkedin.com/in/shubajitbiswal001/",
 };
 
 export const openSource = {
-  githubUserName: "1hanzla100",
+  githubUserName: "http-shubjit",
 };
 
 export const contact = {};
@@ -28,7 +28,7 @@ export const contact = {};
 export const socialLinks: SocialLinksType = {
   email: "mailto:hanzla.tauqeer123@gmail.com",
   linkedin: "https://www.linkedin.com/in/1hanzla100/",
-  github: "https://github.com/1hanzla100",
+  github: "https://github.com/http-shubjit",
   instagram: "https://www.instagram.com/__hanzla100",
   // facebook: 'https://www.facebook.com/1hanzla100',
   // twitter: 'https://twitter.com/1hanzla100',
@@ -196,18 +196,18 @@ export const feedbacks: FeedbackType[] = [
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "Hanzla Tauqeer",
+  title: "Shubhajit Biswal",
   description: greetings.description,
-  author: "Hanzla Tauqeer",
+  author: "Shubhajit Biswal",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
   url: "https://developer-portfolio-1hanzla100.vercel.app",
   keywords: [
     "Hanzla",
-    "Hanzla Tauqeer",
+    "Shubhajit Biswal",
     "@1hanzla100",
     "1hanzla100",
     "Portfolio",
     "Hanzla Portfolio ",
-    "Hanzla Tauqeer Portfolio",
+    "Shubhajit Biswal Portfolio",
   ],
 };
